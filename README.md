@@ -62,13 +62,13 @@ Your database should contain the following four models, including the requiremen
 
   * `id`
 
-    * Integer.
+    * Integer. x
   
-    * Doesn't allow null values.
+    * Doesn't allow null values. x
   
-    * Set as primary key.
+    * Set as primary key. x
   
-    * Uses auto increment.
+    * Uses auto increment. x
 
   * `category_name`
   
