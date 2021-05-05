@@ -1,12 +1,10 @@
 # ECOMMERCE-ORM
 
-Unfinished. Having error starting server and creating insomnia demo but the code looks ok. Can't figure out the .env (i believe that is the issue - will go over in office hours)
-
 https://drive.google.com/file/d/1_NCGKRmutpogfJZgtpGiMtE905maS1wp/view?usp=sharing
 
 ## :newspaper: Description 
 
-`FILL OUT`
+The following files contain the necessary assets to deploy the back-end for an ecommerce environment. Users can input and delete products and add tags for their business.
 
 ## :bookmark_tabs: Table of Contents 
 
@@ -18,10 +16,11 @@ https://drive.google.com/file/d/1_NCGKRmutpogfJZgtpGiMtE905maS1wp/view?usp=shari
 ## 💻 Installation  
 
 User should for this repo, create a local clone, save and run on your machine!
+`Node.js` `Express` `Sequelize`
 
 ## :floppy_disk: Usage
 
-`FILL OUT`
+You will need to update your .env, run npm i and npm start.
 
 ## :card_index: Credits 
 
