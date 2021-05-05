@@ -2,7 +2,7 @@
 
 Unfinished. Having error starting server and creating insomnia demo but the code looks ok. Can't figure out the .env (i believe that is the issue - will go over in office hours)
 
-`LINK TO WORKING INSOMNIA DEMO`
+https://drive.google.com/file/d/1_NCGKRmutpogfJZgtpGiMtE905maS1wp/view?usp=sharing
 
 ## :newspaper: Description 
 
